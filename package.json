@@ -1,0 +1,19 @@
+{
+  "name": "testtiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap3": "^3.3.5",
+    "jquery": "^3.4.1",
+    "leaflet-draw": "^1.0.4",
+    "leaflet-editable": "^1.2.0",
+    "leaflet-rastercoords": "^1.0.3"
+  }
+}
